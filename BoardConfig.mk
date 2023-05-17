@@ -29,7 +29,7 @@ BOARD_BOOTIMG_HEADER_VERSION := 4
 BOARD_MKBOOTIMG_ARGS += --header_version $(BOARD_BOOTIMG_HEADER_VERSION)
 BOARD_KERNEL_IMAGE_NAME := Image
 TARGET_KERNEL_CONFIG := generic_arm64_defconfig
-TARGET_KERNEL_SOURCE := kernel/unknown/generic_arm64
+TARGET_KERNEL_SOURCE := device/tecno/pova4/prebuilt
 
 # Kernel - prebuilt
 TARGET_FORCE_PREBUILT_KERNEL := true
