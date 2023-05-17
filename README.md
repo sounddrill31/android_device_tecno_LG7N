@@ -8,5 +8,5 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 ```
-```git clone https://github.com/sounddrill31/android_device_unknown_generic_arm64.git device/techno/LG7N```
+```git clone https://github.com/sounddrill31/android_device_tecno_LG7N.git device/techno/LG7N```
 And then follow https://shrp.github.io/#/guide?id=android-121 
