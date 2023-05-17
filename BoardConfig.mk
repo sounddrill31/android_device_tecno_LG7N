@@ -5,7 +5,7 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-DEVICE_PATH := device/unknown/generic_arm64
+DEVICE_PATH := device/tecno/pova4
 
 # For building with minimal manifest
 ALLOW_MISSING_DEPENDENCIES := true
