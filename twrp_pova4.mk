@@ -15,11 +15,11 @@ $(call inherit-product, vendor/twrp/config/common.mk)
 # Inherit from generic_arm64 device
 $(call inherit-product, device/unknown/generic_arm64/device.mk)
 
-PRODUCT_DEVICE := generic_arm64
-PRODUCT_NAME := twrp_generic_arm64
+PRODUCT_DEVICE := pova4
+PRODUCT_NAME := twrp_pova4
 PRODUCT_BRAND := Android
 PRODUCT_MODEL := GSI on ARM64
-PRODUCT_MANUFACTURER := unknown
+PRODUCT_MANUFACTURER := tecno
 
 PRODUCT_GMS_CLIENTID_BASE := android-unknown
 
