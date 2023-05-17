@@ -8,8 +8,8 @@
 
 set -e
 
-DEVICE=generic_arm64
-VENDOR=unknown
+DEVICE=LG7N
+VENDOR=tecno
 
 # Load extract_utils and do some sanity checks
 MY_DIR="${BASH_SOURCE%/*}"
