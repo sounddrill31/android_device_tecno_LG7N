@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_generic_arm64.mk
+    $(LOCAL_DIR)/twrp_generic_arm64.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_generic_arm64-user \
-    omni_generic_arm64-userdebug \
-    omni_generic_arm64-eng
+    twrp_generic_arm64-user \
+    twrp_generic_arm64-userdebug \
+    twrp_generic_arm64-eng
