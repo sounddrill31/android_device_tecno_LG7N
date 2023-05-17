@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/twrp_pova4.mk
+    $(LOCAL_DIR)/twrp_LG7N.mk
 
 COMMON_LUNCH_CHOICES := \
-    twrp_pova4-user \
-    twrp_pova4-userdebug \
-    twrp_pova4-eng
+    twrp_LG7N-user \
+    twrp_LG7N-userdebug \
+    twrp_LG7N-eng
