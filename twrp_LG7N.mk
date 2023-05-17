@@ -13,10 +13,10 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 $(call inherit-product, vendor/twrp/config/common.mk)
 
 # Inherit from generic_arm64 device
-$(call inherit-product, device/tecno/pova4/device.mk)
+$(call inherit-product, device/tecno/LG7N/device.mk)
 
-PRODUCT_DEVICE := pova4
-PRODUCT_NAME := twrp_pova4
+PRODUCT_DEVICE := LG7N
+PRODUCT_NAME := twrp_LG7N
 PRODUCT_BRAND := Android
 PRODUCT_MODEL := GSI on ARM64
 PRODUCT_MANUFACTURER := tecno
