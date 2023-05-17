@@ -10,3 +10,5 @@
 ```
 ```git clone https://github.com/sounddrill31/android_device_tecno_LG7N.git device/tecno/LG7N```
 And then follow https://shrp.github.io/#/guide?id=android-121 
+
+TWRP Installer from https://github.com/azwhikaru/Action-TWRP-Builder
