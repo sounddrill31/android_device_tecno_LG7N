@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/twrp_generic_arm64.mk
+    $(LOCAL_DIR)/twrp_pova4.mk
 
 COMMON_LUNCH_CHOICES := \
-    twrp_generic_arm64-user \
-    twrp_generic_arm64-userdebug \
-    twrp_generic_arm64-eng
+    twrp_pova4-user \
+    twrp_pova4-userdebug \
+    twrp_pova4-eng
