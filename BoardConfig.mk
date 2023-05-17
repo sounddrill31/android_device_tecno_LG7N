@@ -5,7 +5,7 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-DEVICE_PATH := device/tecno/pova4
+DEVICE_PATH := device/tecno/LG7N
 
 # For building with minimal manifest
 ALLOW_MISSING_DEPENDENCIES := true
@@ -29,7 +29,7 @@ BOARD_BOOTIMG_HEADER_VERSION := 4
 BOARD_MKBOOTIMG_ARGS += --header_version $(BOARD_BOOTIMG_HEADER_VERSION)
 BOARD_KERNEL_IMAGE_NAME := Image
 TARGET_KERNEL_CONFIG := generic_arm64_defconfig
-TARGET_KERNEL_SOURCE := device/tecno/pova4/prebuilt
+TARGET_KERNEL_SOURCE := device/tecno/LG7N/prebuilt
 
 # Kernel - prebuilt
 TARGET_FORCE_PREBUILT_KERNEL := true
