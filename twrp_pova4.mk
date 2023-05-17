@@ -13,7 +13,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 $(call inherit-product, vendor/twrp/config/common.mk)
 
 # Inherit from generic_arm64 device
-$(call inherit-product, device/unknown/generic_arm64/device.mk)
+$(call inherit-product, device/tecno/pova4/device.mk)
 
 PRODUCT_DEVICE := pova4
 PRODUCT_NAME := twrp_pova4
